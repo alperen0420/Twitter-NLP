@@ -1,4 +1,6 @@
-##TR:
+
+
+# TR:
 
 # Multilingual Tweet Analysis: Hate Speech, Emotion & Topic Modeling
 
@@ -12,7 +14,7 @@ Bu proje, Türkçe ve Almanca tweetlerde göçmenler ve mültecilerle ilgili sö
 - Anahtar kelime bağlamı ve kelime frekansı analizi
 - Zaman serisi grafiklerle nefret ve duygu analizi görselleştirmesi
 
-##EN:
+# EN:
 
 # Multilingual Tweet Analysis: Hate Speech, Emotion & Topic Modeling
 
