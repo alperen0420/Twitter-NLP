@@ -1,6 +1,7 @@
 *.pyc
 __pycache__/
 .ipynb_checkpoints/
-outputs/
+Outputs/
 data/
-models/
+LDA_models/
+notebooks/
