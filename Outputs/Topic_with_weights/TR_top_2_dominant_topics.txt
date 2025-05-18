@@ -1,0 +1,33 @@
+=== Tüm Zamanların En Baskın 2 Konusu ===
+
+1. Baskın Konu:
+Kaynak Zaman Dilimi: 2024_08_Topic
+Konu ID: 2024_08_Topic_28
+Merkeziyet Skoru: 0.5486
+Öne Çıkan Kelimeler:
+  - Suriye: 0.0430
+  - göçmen: 0.0250
+  - yap: 0.0170
+  - gir: 0.0140
+  - ülke: 0.0120
+  - İsrail: 0.0120
+  - gel: 0.0090
+  - bil: 0.0090
+  - ceza: 0.0090
+  - kadın: 0.0090
+
+2. Baskın Konu:
+Kaynak Zaman Dilimi: 2023_05_Topic
+Konu ID: 2023_05_Topic_46
+Merkeziyet Skoru: 0.5269
+Öne Çıkan Kelimeler:
+  - Suriye: 0.0500
+  - bölge: 0.0170
+  - yıl: 0.0110
+  - yap: 0.0110
+  - göçmen: 0.0110
+  - Avrupa: 0.0070
+  - Türkiye: 0.0070
+  - ülke: 0.0070
+  - kal: 0.0070
+  - sığınma: 0.0070

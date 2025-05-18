@@ -1,0 +1,355 @@
+--- 2022_12 Zaman Dilimi İşleniyor ---
+2022_12 için En Baskın Konu: 47 (Merkeziyet Skoru: 0.3838)
+Baskın Konunun Kelimeleri ve Ağırlıkları:
+  - Suriye: 0.0780
+  - mesele: 0.0260
+  - Esad: 0.0260
+  - mücadele: 0.0130
+  - vurgula: 0.0130
+  - Türkiye: 0.0130
+  - bakan: 0.0130
+  - iç: 0.0130
+  - savaş: 0.0130
+  - Moskova: 0.0130
+
+
+--- 2023_01 Zaman Dilimi İşleniyor ---
+2023_01 için En Baskın Konu: 38 (Merkeziyet Skoru: 0.8384)
+Baskın Konunun Kelimeleri ve Ağırlıkları:
+  - Suriye: 0.0390
+  - Türk: 0.0160
+  - gel: 0.0110
+  - savaş: 0.0110
+  - Türkiye: 0.0080
+  - yap: 0.0080
+  - idare: 0.0080
+  - yıl: 0.0080
+  - yeni: 0.0080
+  - üst: 0.0080
+
+
+--- 2023_02 Zaman Dilimi İşleniyor ---
+2023_02 için En Baskın Konu: 23 (Merkeziyet Skoru: 0.6869)
+Baskın Konunun Kelimeleri ve Ağırlıkları:
+  - Suriye: 0.0370
+  - deprem: 0.0250
+  - Filistin: 0.0220
+  - yap: 0.0170
+  - Türkiye: 0.0130
+  - ara: 0.0120
+  - ekip: 0.0120
+  - kurtar: 0.0120
+  - bil: 0.0090
+  - teşekkür: 0.0090
+
+--- 2023_03 Zaman Dilimi İşleniyor ---
+2023_03 için En Baskın Konu: 68 (Merkeziyet Skoru: 0.6667)
+Baskın Konunun Kelimeleri ve Ağırlıkları:
+  - Suriye: 0.0400
+  - deprem: 0.0180
+  - vatandaş: 0.0150
+  - yap: 0.0150
+  - Türkiye: 0.0110
+  - ülke: 0.0110
+  - al: 0.0110
+  - kriz: 0.0110
+  - başkan: 0.0110
+  - mesele: 0.0110
+
+
+--- 2023_04 Zaman Dilimi İşleniyor ---
+2023_04 için En Baskın Konu: 51 (Merkeziyet Skoru: 0.7980)
+Baskın Konunun Kelimeleri ve Ağırlıkları:
+  - Suriye: 0.0510
+  - toprak: 0.0140
+  - yap: 0.0110
+  - toplantı: 0.0090
+  - çek: 0.0090
+  - mücadele: 0.0090
+  - yer: 0.0080
+  - karşı: 0.0080
+  - Türkiye: 0.0080
+  - hava: 0.0080
+
+
+--- 2023_05 Zaman Dilimi İşleniyor ---
+2023_05 için En Baskın Konu: 0 (Merkeziyet Skoru: 0.7879)
+Baskın Konunun Kelimeleri ve Ağırlıkları:
+  - Suriye: 0.0450
+  - ülke: 0.0210
+  - seçim: 0.0170
+  - yaşa: 0.0160
+  - kazan: 0.0140
+  - yap: 0.0110
+  - Ümit: 0.0110
+  - hala: 0.0110
+  - Türk: 0.0110
+  - kardeşi: 0.0110
+
+
+--- 2023_06 Zaman Dilimi İşleniyor ---
+2023_06 için En Baskın Konu: 49 (Merkeziyet Skoru: 0.7273)
+Baskın Konunun Kelimeleri ve Ağırlıkları:
+  - Suriye: 0.0550
+  - çocuk: 0.0160
+  - taciz: 0.0160
+  - kız: 0.0160
+  - Türk: 0.0120
+  - dış: 0.0120
+  - küçük: 0.0120
+  - uğra: 0.0120
+  - cinsel: 0.0120
+  - taraf: 0.0120
+
+
+--- 2023_07 Zaman Dilimi İşleniyor ---
+2023_07 için En Baskın Konu: 55 (Merkeziyet Skoru: 0.5657)
+Baskın Konunun Kelimeleri ve Ağırlıkları:
+  - Suriye: 0.0640
+  - sistem: 0.0160
+  - durum: 0.0110
+  - ABD: 0.0110
+  - ekonomi: 0.0110
+  - saat: 0.0110
+  - yap: 0.0110
+  - kal: 0.0110
+  - çalış: 0.0110
+  - ver: 0.0110
+
+
+--- 2023_08 Zaman Dilimi İşleniyor ---
+2023_08 için En Baskın Konu: 16 (Merkeziyet Skoru: 0.6162)
+Baskın Konunun Kelimeleri ve Ağırlıkları:
+  - Suriye: 0.0460
+  - grup: 0.0140
+  - ulaşım: 0.0140
+  - Türkçe: 0.0140
+  - çocuk: 0.0090
+  - savaş: 0.0090
+  - yıl: 0.0090
+  - gir: 0.0090
+  - toplumsal: 0.0090
+  - alan: 0.0090
+
+
+--- 2023_09 Zaman Dilimi İşleniyor ---
+2023_09 için En Baskın Konu: 37 (Merkeziyet Skoru: 0.7172)
+Baskın Konunun Kelimeleri ve Ağırlıkları:
+  - Suriye: 0.0410
+  - göçmen: 0.0180
+  - ülke: 0.0150
+  - kaçak: 0.0150
+  - mahalle: 0.0150
+  - istila: 0.0150
+  - Papa: 0.0100
+  - kal: 0.0100
+  - muhtar: 0.0100
+  - Francis: 0.0100
+
+
+--- 2023_10 Zaman Dilimi İşleniyor ---
+2023_10 için En Baskın Konu: 14 (Merkeziyet Skoru: 0.3434)
+Baskın Konunun Kelimeleri ve Ağırlıkları:
+  - Suriye: 0.0300
+  - Kıvılcım: 0.0130
+  - İyiki: 0.0130
+  - ah: 0.0130
+  - hedef: 0.0130
+  - al: 0.0130
+  - Hep: 0.0130
+  - ABD: 0.0070
+  - yap: 0.0070
+  - haber: 0.0070
+
+
+--- 2023_11 Zaman Dilimi İşleniyor ---
+2023_11 için En Baskın Konu: 0 (Merkeziyet Skoru: 0.4646)
+Baskın Konunun Kelimeleri ve Ağırlıkları:
+  - Suriye: 0.0280
+  - göçmen: 0.0170
+  - gör: 0.0140
+  - el: 0.0110
+  - savaş: 0.0110
+  - söyle: 0.0110
+  - vatandaş: 0.0110
+  - ateş: 0.0110
+  - ön: 0.0110
+  - iddia: 0.0110
+
+
+--- 2023_12 Zaman Dilimi İşleniyor ---
+2023_12 için En Baskın Konu: 15 (Merkeziyet Skoru: 0.6061)
+Baskın Konunun Kelimeleri ve Ağırlıkları:
+  - Suriye: 0.0310
+  - anlam: 0.0100
+  - ver: 0.0100
+  - olay: 0.0100
+  - kavram: 0.0100
+  - bulun: 0.0100
+  - Ürdün: 0.0100
+  - in: 0.0100
+  - kullanim: 0.0100
+  - ulus: 0.0100
+
+--- 2024_01 Zaman Dilimi İşleniyor ---
+2024_01 için En Baskın Konu: 10 (Merkeziyet Skoru: 0.8586)
+Baskın Konunun Kelimeleri ve Ağırlıkları:
+  - göçmen: 0.0590
+  - gel: 0.0200
+  - insan: 0.0130
+  - parti: 0.0130
+  - milyon: 0.0100
+  - AB: 0.0100
+  - yap: 0.0100
+  - Üzer: 0.0070
+  - ver: 0.0070
+  - iklim: 0.0070
+
+
+--- 2024_02 Zaman Dilimi İşleniyor ---
+2024_02 için En Baskın Konu: 16 (Merkeziyet Skoru: 0.8586)
+Baskın Konunun Kelimeleri ve Ağırlıkları:
+  - göçmen: 0.0840
+  - kaçakçı: 0.0250
+  - al: 0.0250
+  - yardım: 0.0250
+  - Türk: 0.0250
+  - milyon: 0.0250
+  - Sarıçam: 0.0190
+  - belge: 0.0190
+  - kişi: 0.0190
+  - Düzen: 0.0190
+
+
+--- 2024_03 Zaman Dilimi İşleniyor ---
+2024_03 için En Baskın Konu: 4 (Merkeziyet Skoru: 0.8889)
+Baskın Konunun Kelimeleri ve Ağırlıkları:
+  - göçmen: 0.0460
+  - uç: 0.0120
+  - anla: 0.0120
+  - görevli: 0.0120
+  - grup: 0.0120
+  - bak: 0.0120
+  - bulun: 0.0120
+  - dur: 0.0120
+  - çalış: 0.0120
+  - fark: 0.0120
+
+
+--- 2024_04 Zaman Dilimi İşleniyor ---
+2024_04 için En Baskın Konu: 64 (Merkeziyet Skoru: 0.8687)
+Baskın Konunun Kelimeleri ve Ağırlıkları:
+  - göçmen: 0.0430
+  - işçi: 0.0170
+  - gel: 0.0130
+  - enflasyon: 0.0090
+  - politika: 0.0090
+  - başarı: 0.0090
+  - ev: 0.0090
+  - art: 0.0090
+  - devam: 0.0090
+  - kutla: 0.0090
+
+
+--- 2024_05 Zaman Dilimi İşleniyor ---
+2024_05 için En Baskın Konu: 28 (Merkeziyet Skoru: 0.8889)
+Baskın Konunun Kelimeleri ve Ağırlıkları:
+  - Suriye: 0.0380
+  - göçmen: 0.0240
+  - Türk: 0.0130
+  - ülke: 0.0130
+  - haber: 0.0110
+  - sor: 0.0110
+  - vatandaş: 0.0110
+  - Ol: 0.0110
+  - git: 0.0100
+  - başkan: 0.0080
+
+
+--- 2024_06 Zaman Dilimi İşleniyor ---
+2024_06 için En Baskın Konu: 53 (Merkeziyet Skoru: 0.2929)
+Baskın Konunun Kelimeleri ve Ağırlıkları:
+  - Suriye: 0.1860
+  - sapık: 0.0680
+  - dükkan: 0.0620
+  - yak: 0.0620
+  - çocuk: 0.0600
+  - istifa: 0.0530
+  - ev: 0.0500
+  - yap: 0.0410
+  - taciz: 0.0390
+  - Erdoğan: 0.0390
+
+
+--- 2024_07 Zaman Dilimi İşleniyor ---
+2024_07 için En Baskın Konu: 83 (Merkeziyet Skoru: 0.2424)
+Baskın Konunun Kelimeleri ve Ağırlıkları:
+  - Suriye: 0.1480
+  - art: 0.0520
+  - destek: 0.0520
+  - muhalefet: 0.0520
+  - gündem: 0.0500
+  - mülteci: 0.0480
+  - Hakan: 0.0430
+  - uygula: 0.0420
+  - taraf: 0.0400
+  - kına: 0.0390
+
+
+--- 2024_08 Zaman Dilimi İşleniyor ---
+2024_08 için En Baskın Konu: 79 (Merkeziyet Skoru: 0.9495)
+Baskın Konunun Kelimeleri ve Ağırlıkları:
+  - Suriye: 0.0320
+  - göçmen: 0.0220
+  - çocuk: 0.0150
+  - Ali: 0.0110
+  - gel: 0.0110
+  - can: 0.0110
+  - Kemalist: 0.0110
+  - kaçak: 0.0080
+  - baş: 0.0080
+  - sağlık: 0.0080
+
+
+--- 2024_09 Zaman Dilimi İşleniyor ---
+2024_09 için En Baskın Konu: 50 (Merkeziyet Skoru: 0.8687)
+Baskın Konunun Kelimeleri ve Ağırlıkları:
+  - Suriye: 0.0360
+  - göçmen: 0.0240
+  - yap: 0.0200
+  - ülke: 0.0140
+  - insan: 0.0120
+  - savaş: 0.0120
+  - gel: 0.0120
+  - Avrupa: 0.0120
+  - rahat: 0.0120
+  - ver: 0.0120
+
+--- 2024_10 Zaman Dilimi İşleniyor ---
+2024_10 için En Baskın Konu: 55 (Merkeziyet Skoru: 0.7980)
+Baskın Konunun Kelimeleri ve Ağırlıkları:
+  - Suriye: 0.0320
+  - göçmen: 0.0270
+  - ülke: 0.0200
+  - Suriyeli: 0.0180
+  - yap: 0.0150
+  - kaç: 0.0140
+  - dış: 0.0140
+  - yakala: 0.0140
+  - Türk: 0.0120
+  - çık: 0.0120
+
+
+--- 2024_11 Zaman Dilimi İşleniyor ---
+2024_11 için En Baskın Konu: 26 (Merkeziyet Skoru: 0.7778)
+Baskın Konunun Kelimeleri ve Ağırlıkları:
+  - Suriye: 0.0310
+  - göçmen: 0.0180
+  - al: 0.0180
+  - yaş: 0.0110
+  - yap: 0.0110
+  - kadın: 0.0100
+  - yaşa: 0.0090
+  - sınır: 0.0090
+  - kucak: 0.0090
+  - hedef: 0.0090

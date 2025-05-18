@@ -1,0 +1,283 @@
+--- 2023_06 Zaman Dilimi İşleniyor ---
+2023_06 için En Baskın Konu: 57 (Merkeziyet Skoru: 0.9394)
+Baskın Konunun Kelimeleri ve Ağırlıkları:
+  - Türkei: 0.0390
+  - Land: 0.0180
+  - Türke: 0.0130
+  - Deutschland: 0.0110
+  - vs: 0.0110
+  - stehen: 0.0080
+  - sagen: 0.0080
+  - Einwanderer: 0.0080
+  - einfach: 0.0050
+  - Flick: 0.0050
+
+
+--- 2023_07 Zaman Dilimi İşleniyor ---
+2023_07 için En Baskın Konu: 11 (Merkeziyet Skoru: 0.4040)
+Baskın Konunun Kelimeleri ve Ağırlıkları:
+  - Türkei: 0.3030
+  - häufig: 0.0590
+  - nächster: 0.0540
+  - schlimm: 0.0420
+  - Lage: 0.0380
+  - entsprechen: 0.0310
+  - Steigerung: 0.0310
+  - Reiseziel: 0.0310
+  - Stoltenberg: 0.0190
+  - Indien: 0.0150
+
+
+--- 2023_08 Zaman Dilimi İşleniyor ---
+2023_08 için En Baskın Konu: 19 (Merkeziyet Skoru: 0.5152)
+Baskın Konunun Kelimeleri ve Ağırlıkları:
+  - Türkei: 0.0940
+  - Bild: 0.0390
+  - Galatasaray: 0.0370
+  - Istanbul: 0.0370
+  - eher: 0.0270
+  - Türke: 0.0270
+  - Molde: 0.0260
+  - erfolgreich: 0.0250
+  - Zugang: 0.0220
+  - Zeit: 0.0210
+
+
+--- 2023_09 Zaman Dilimi İşleniyor ---
+2023_09 için En Baskın Konu: 20 (Merkeziyet Skoru: 0.8788)
+Baskın Konunun Kelimeleri ve Ağırlıkları:
+  - Türkei: 0.0220
+  - Schiff: 0.0110
+  - Türke: 0.0100
+  - Einwanderer: 0.0100
+  - illegal: 0.0100
+  - Mio: 0.0100
+  - Libyen: 0.0100
+  - schließlich: 0.0100
+  - bedrängen: 0.0100
+  - laden: 0.0070
+
+
+--- 2023_10 Zaman Dilimi İşleniyor ---
+2023_10 için En Baskın Konu: 24 (Merkeziyet Skoru: 0.5657)
+Baskın Konunun Kelimeleri ve Ağırlıkları:
+  - Türkei: 0.0710
+  - ne: 0.0370
+  - solange: 0.0330
+  - anderer: 0.0310
+  - Türke: 0.0310
+  - selber: 0.0310
+  - paar: 0.0300
+  - begehen: 0.0220
+  - Konsequenz: 0.0220
+  - überall: 0.0190
+
+
+--- 2023_11 Zaman Dilimi İşleniyor ---
+2023_11 için En Baskın Konu: 7 (Merkeziyet Skoru: 0.4646)
+Baskın Konunun Kelimeleri ve Ağırlıkları:
+  - Türkei: 0.0900
+  - Ziel: 0.0400
+  - militärisch: 0.0270
+  - mal: 0.0270
+  - Israel: 0.0240
+  - erkennen: 0.0220
+  - verschwinden: 0.0200
+  - soweit: 0.0180
+  - Angriff: 0.0180
+  - wissen: 0.0170
+
+
+--- 2023_12 Zaman Dilimi İşleniyor ---
+2023_12 için En Baskın Konu: 29 (Merkeziyet Skoru: 0.5253)
+Baskın Konunun Kelimeleri ve Ağırlıkları:
+  - Türkei: 0.0680
+  - Nato: 0.0320
+  - Land: 0.0280
+  - direkt: 0.0250
+  - Stelle: 0.0210
+  - Islam: 0.0210
+  - schaffen: 0.0190
+  - leben: 0.0160
+  - Frieden: 0.0150
+  - nahe: 0.0150
+
+
+--- 2024_01 Zaman Dilimi İşleniyor ---
+2024_01 için En Baskın Konu: 79 (Merkeziyet Skoru: 0.4040)
+Baskın Konunun Kelimeleri ve Ağırlıkları:
+  - Türkei: 0.0910
+  - Vorschlag: 0.0240
+  - Jahr: 0.0170
+  - Erdogan: 0.0160
+  - Wirtschaft: 0.0160
+  - zulassen: 0.0140
+  - Kuba: 0.0130
+  - DDR: 0.0130
+  - Deutschland: 0.0110
+  - Rolle: 0.0110
+
+
+--- 2024_02 Zaman Dilimi İşleniyor ---
+2024_02 için En Baskın Konu: 6 (Merkeziyet Skoru: 0.7677)
+Baskın Konunun Kelimeleri ve Ağırlıkları:
+  - Türkei: 0.0480
+  - Türke: 0.0160
+  - Mensch: 0.0150
+  - sehen: 0.0150
+  - Regierung: 0.0110
+  - töten: 0.0110
+  - Syrien: 0.0110
+  - Erdbeben: 0.0110
+  - Jahr: 0.0110
+  - AFD: 0.0110
+
+
+--- 2024_03 Zaman Dilimi İşleniyor ---
+2024_03 için En Baskın Konu: 40 (Merkeziyet Skoru: 0.8586)
+Baskın Konunun Kelimeleri ve Ağırlıkları:
+  - Türkei: 0.0710
+  - Erdoğan: 0.0260
+  - Terrorist: 0.0200
+  - Kurde: 0.0200
+  - Türke: 0.0200
+  - Hand: 0.0130
+  - Afrin: 0.0130
+  - gewinnen: 0.0130
+  - Istanbul: 0.0130
+  - geben: 0.0130
+
+
+--- 2024_04 Zaman Dilimi İşleniyor ---
+2024_04 için En Baskın Konu: 35 (Merkeziyet Skoru: 0.8788)
+Baskın Konunun Kelimeleri ve Ağırlıkları:
+  - Türkei: 0.0460
+  - Türke: 0.0300
+  - Steinmeier: 0.0180
+  - USA: 0.0170
+  - Armenien: 0.0170
+  - Erdogan: 0.0130
+  - Genozid: 0.0130
+  - türkisch: 0.0090
+  - Zypern: 0.0080
+  - Al: 0.0080
+
+
+--- 2024_05 Zaman Dilimi İşleniyor ---
+2024_05 için En Baskın Konu: 9 (Merkeziyet Skoru: 0.8889)
+Baskın Konunun Kelimeleri ve Ağırlıkları:
+  - Türkei: 0.0460
+  - Türke: 0.0330
+  - Erdogan: 0.0240
+  - Deutschland: 0.0180
+  - Land: 0.0170
+  - Prozent: 0.0120
+  - Einbürgerung: 0.0120
+  - wählen: 0.0120
+  - Jahr: 0.0120
+  - Syrer: 0.0120
+
+
+--- 2024_06 Zaman Dilimi İşleniyor ---
+2024_06 için En Baskın Konu: 27 (Merkeziyet Skoru: 0.8485)
+Baskın Konunun Kelimeleri ve Ağırlıkları:
+  - Türkei: 0.0340
+  - Türke: 0.0300
+  - Grad: 0.0230
+  - Jahr: 0.0230
+  - Spiel: 0.0230
+  - Turkey: 0.0150
+  - Rumänien: 0.0150
+  - gewonnen: 0.0150
+  - live: 0.0150
+  - deutsch: 0.0150
+
+
+--- 2024_07 Zaman Dilimi İşleniyor ---
+2024_07 için En Baskın Konu: 23 (Merkeziyet Skoru: 0.8889)
+Baskın Konunun Kelimeleri ve Ağırlıkları:
+  - Türkei: 0.0380
+  - Türke: 0.0240
+  - wahrscheinlich: 0.0240
+  - Lied: 0.0160
+  - Libanon: 0.0160
+  - Israel: 0.0160
+  - Frankreich: 0.0160
+  - Ausland: 0.0160
+  - drohen: 0.0160
+  - Iran: 0.0150
+
+
+--- 2024_08 Zaman Dilimi İşleniyor ---
+2024_08 için En Baskın Konu: 10 (Merkeziyet Skoru: 0.8586)
+Baskın Konunun Kelimeleri ve Ağırlıkları:
+  - Türkei: 0.0480
+  - Türke: 0.0270
+  - http: 0.0180
+  - Strom: 0.0120
+  - nackt: 0.0120
+  - Sein: 0.0120
+  - hoffen: 0.0120
+  - Alman: 0.0120
+  - rr: 0.0120
+  - Land: 0.0060
+
+
+--- 2024_09 Zaman Dilimi İşleniyor ---
+2024_09 için En Baskın Konu: 24 (Merkeziyet Skoru: 0.8485)
+Baskın Konunun Kelimeleri ve Ağırlıkları:
+  - Türkei: 0.0630
+  - Türke: 0.0320
+  - schnell: 0.0150
+  - Migration: 0.0150
+  - Deutschland: 0.0150
+  - unterstützen: 0.0150
+  - Asien: 0.0150
+  - abschieben: 0.0070
+  - angreifen: 0.0070
+  - Vermehrt: 0.0070
+
+
+--- 2024_10 Zaman Dilimi İşleniyor ---
+2024_10 için En Baskın Konu: 42 (Merkeziyet Skoru: 0.9293)
+Baskın Konunun Kelimeleri ve Ağırlıkları:
+  - Türkei: 0.0460
+  - Türke: 0.0190
+  - Europa: 0.0160
+  - ausreisepflichtig: 0.0160
+  - Deutschland: 0.0110
+  - Republik: 0.0110
+  - gering: 0.0110
+  - Flüchtling: 0.0110
+  - Oktober: 0.0110
+  - Erdogan: 0.0110
+
+
+--- 2024_11 Zaman Dilimi İşleniyor ---
+2024_11 için En Baskın Konu: 15 (Merkeziyet Skoru: 0.4848)
+Baskın Konunun Kelimeleri ve Ağırlıkları:
+  - Türkei: 0.0900
+  - geben: 0.0170
+  - Volk: 0.0170
+  - Blutrache: 0.0170
+  - mal: 0.0170
+  - Krieg: 0.0170
+  - Iran: 0.0170
+  - Stellvertreter: 0.0170
+  - Erdogan: 0.0170
+  - Herr: 0.0170
+
+
+--- 2024_12 Zaman Dilimi İşleniyor ---
+2024_12 için En Baskın Konu: 61 (Merkeziyet Skoru: 0.7980)
+Baskın Konunun Kelimeleri ve Ağırlıkları:
+  - Türkei: 0.0510
+  - Türke: 0.0220
+  - Deutschland: 0.0170
+  - ändern: 0.0130
+  - Erdogan: 0.0130
+  - Vorteil: 0.0130
+  - Schande: 0.0130
+  - stehen: 0.0090
+  - Land: 0.0090
+  - Projekt: 0.0090

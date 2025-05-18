@@ -1,0 +1,5 @@
+emotion
+visegradmedia-emotion/Emotion_RoBERTa_german6_v7
+
+hate speech
+chrisrtt/gbert-multi-class-german-hate

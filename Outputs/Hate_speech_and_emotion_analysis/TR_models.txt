@@ -1,0 +1,5 @@
+hate speech
+barandinho/distilbert-base-turkish-cased-toxic-lang
+
+emotion analysis
+maymuni/bert-base-turkish-cased-emotion-analysis
