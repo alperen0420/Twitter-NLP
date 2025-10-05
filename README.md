@@ -31,4 +31,4 @@ This project focuses on analyzing discourse related to migrants and refugees in 
 - Contextual keyword and word frequency analysis  
 - Visualization of hate and emotion trends via time series plots
 
-## ou can access the publication I co-authored with my respected scholars through this analysis here: https://dergipark.org.tr/tr/pub/ejnm/issue/94873/1725607
+## You can access the publication I co-authored with my respected scholars through this analysis here: https://dergipark.org.tr/tr/pub/ejnm/issue/94873/1725607
